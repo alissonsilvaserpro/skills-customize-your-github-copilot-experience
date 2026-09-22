@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-crud",
+      "title": "SQLite and FastAPI CRUD",
+      "description": "Build a FastAPI app that stores records in SQLite and supports CRUD operations",
+      "path": "assignments/fastapi-sqlite-crud",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
